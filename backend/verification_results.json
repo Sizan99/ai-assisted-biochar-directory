@@ -1,0 +1,82 @@
+[
+  {
+    "id": 56,
+    "company_name": "PYREG",
+    "verification_status": "UNREGISTERED",
+    "companies_house_number": null,
+    "companies_house_status": null,
+    "notes": "No results found in Companies House. Likely a sole trader or unincorporated business.",
+    "ai_confidence": "HIGH",
+    "ai_reasoning": "No search results returned from Companies House register."
+  },
+  {
+    "id": 57,
+    "company_name": "Brodie Biomass Limited",
+    "verification_status": "VERIFIED",
+    "companies_house_number": "15250145",
+    "companies_house_status": "active",
+    "notes": "Exact match to 'BRODIE BIOMASS LIMITED' (#15250145). Status: active. Data issues: No web link provided.",
+    "ai_confidence": "HIGH",
+    "ai_reasoning": "Exact name match after normalizing: 'Brodie Biomass Limited' = 'BRODIE BIOMASS LIMITED'."
+  },
+  {
+    "id": 58,
+    "company_name": "Bio Bloom",
+    "verification_status": "VERIFIED",
+    "companies_house_number": "17021036",
+    "companies_house_status": "active",
+    "notes": "AI matched to 'BIOBLOOM LIFE LIMITED' (#17021036). Status: active. Data issues: No web link provided.; Contact information is missing or incomplete.",
+    "ai_confidence": "HIGH",
+    "ai_reasoning": "BIOBLOOM LIFE LIMITED is an exact match for 'Bio Bloom' with standard company suffix."
+  },
+  {
+    "id": 59,
+    "company_name": "Enigma Energy Limited",
+    "verification_status": "VERIFIED",
+    "companies_house_number": "12161577",
+    "companies_house_status": "active",
+    "notes": "Exact match to 'ENIGMA ENERGY LTD' (#12161577). Status: active. Data issues: No web link provided.",
+    "ai_confidence": "HIGH",
+    "ai_reasoning": "Exact name match after normalizing: 'Enigma Energy Limited' = 'ENIGMA ENERGY LTD'."
+  },
+  {
+    "id": 60,
+    "company_name": "Black Gold Biochar",
+    "verification_status": "UNREGISTERED",
+    "companies_house_number": null,
+    "companies_house_status": null,
+    "notes": "AI reviewed 3 candidates, no genuine match. Likely sole trader. Data issues: No web link provided.",
+    "ai_confidence": "HIGH",
+    "ai_reasoning": "The company name is 'Black Gold Biochar' but all candidates reference 'Black Bull Biochar' or 'African Biochar' - these are different business entities."
+  },
+  {
+    "id": 61,
+    "company_name": "Klean Industries",
+    "verification_status": "DISSOLVED",
+    "companies_house_number": "05420823",
+    "companies_house_status": "dissolved",
+    "notes": "AI matched to 'KLEAN INDUSTRIES (UK) LIMITED' (#05420823). Status: dissolved. Data issues: No web link provided.; Contact information is missing or incomplete.",
+    "ai_confidence": "HIGH",
+    "ai_reasoning": "KLEAN INDUSTRIES (UK) LIMITED is a direct match for Klean Industries with standard UK suffix."
+  },
+  {
+    "id": 62,
+    "company_name": "QM Recycled Energy (QMRE)",
+    "verification_status": "VERIFIED",
+    "companies_house_number": "11390055",
+    "companies_house_status": "active",
+    "notes": "AI matched to 'QM RECYCLED ENERGY LTD' (#11390055). Status: active. Data issues: No web link provided.",
+    "ai_confidence": "HIGH",
+    "ai_reasoning": "QM RECYCLED ENERGY LTD is an exact match for QM Recycled Energy (QMRE), with QMRE being the abbreviated form."
+  },
+  {
+    "id": 63,
+    "company_name": "Woodchar Ltd",
+    "verification_status": "VERIFIED",
+    "companies_house_number": "13823422",
+    "companies_house_status": "active",
+    "notes": "Exact match to 'WOODCHAR LTD' (#13823422). Status: active. Data issues: No web link provided.; Contact information is missing or incomplete.",
+    "ai_confidence": "HIGH",
+    "ai_reasoning": "Exact name match after normalizing: 'Woodchar Ltd' = 'WOODCHAR LTD'."
+  }
+]

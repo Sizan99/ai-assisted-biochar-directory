@@ -1,0 +1,30 @@
+# Security — never commit real credentials
+.env
+.env.local
+.env*.local
+# Allow placeholder templates
+!.env.example
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+.vercel/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Large binary files
+*.pdf
+*.zip
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
