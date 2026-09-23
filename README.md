@@ -100,7 +100,7 @@ To absolutely prevent the live database from displaying hallucinated data, this 
 
 ### AI & Data Pipeline (Backend)
 - **Language:** Python 3.10+
-- **LLMs:** Anthropic Claude 3.5 Sonnet (`claude-3-5-sonnet-20240620`), Google Gemini Embeddings (`gemini-embedding-2`)
+- **LLMs:** Anthropic Claude 3.5 Sonnet (`claude-4-5`), Google Gemini Embeddings (`gemini-embedding-2`)
 - **Extraction:** BeautifulSoup4, pypdf, duckduckgo-search, Pydantic
 - **Database:** PostgreSQL 16 (`psycopg2`, native JSON vector storage)
 
